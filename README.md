@@ -17,6 +17,6 @@ Email: jevonsflash@qq.com
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jevonsflash)
+![Anurag's GitHub stats](https://github-readme-stats-eta-ten-65.vercel.app/api?username=jevonsflash)
 
 
