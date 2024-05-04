@@ -1,6 +1,6 @@
 ### Hi  👋
 
-我是一名独立开发者
+This is me
 
 ### 语言/工具
 
@@ -11,8 +11,9 @@
 
 ### 联系我
 
+* 林晓lx的个人Blog: https://blog.matoapp.net
 * CSDN: https://blog.csdn.net/jevonsflash
-* 博客园: https://www.cnblogs.com/jevonsflash/
+* 博客园: https://www.cnblogs.com/jevonsflash
 * Email: jevonsflash@qq.com
 * 知乎: [林小](https://www.zhihu.com/people/lin_xiao)
 
